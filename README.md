@@ -1,2 +1,1 @@
-# AltSchoolExams
-An exams project
+
